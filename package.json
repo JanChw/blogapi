@@ -1,0 +1,31 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auto-bind": "^1.1.0",
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "express-unless": "^0.3.0",
+    "express-validator": "^3.2.0",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.10.8",
+    "nodemailer": "^4.0.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}
